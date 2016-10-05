@@ -2,11 +2,13 @@
 你是否会有本人不在办公室或者实验室而电脑还运行着，但是某个时刻需要关闭的情况呢？这个小项目就是为了完成这个功能，使用微博进行远程关机
 
 ## 项目依赖
-- 模拟登陆+页面解析：requests+pyexecjs+beautifulsoup
+- 模拟登陆+页面解析：requests+pyexecjs+beautifulsoup\
 
- - >pip install requests
- - >pip install bs4
- - >pip install PyExecJS
+
+
+ - > pip install requests
+ - > pip install bs4
+ - > pip install PyExecJS
 
 - 命令行解析：docopt
  - >pip install docopt
