@@ -3,15 +3,12 @@
 
 ## 项目依赖
 - 模拟登陆+页面解析：requests+pyexecjs+beautifulsoup\
-
-
-
- - > pip install requests
- - > pip install bs4
- - > pip install PyExecJS
+ - pip install requests
+ - pip install bs4
+ - pip install PyExecJS
 
 - 命令行解析：docopt
- - >pip install docopt
+ - pip install docopt
  
 - phantomjs
  - windows:在[phantomjs官网](http://phantomjs.org/)下载它，并且把它的路径添加到环境变量中
